@@ -31,6 +31,9 @@ The application recognizes predefined hand gestures based on the positions of yo
 
 We welcome contributions from the open-source community to enhance EasyTouch's functionality and make it even more accessible and intuitive. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](/path/to/CONTRIBUTING.md) file. 🤝🌟
 
+## Work in progress
+
+The model API is under construction the changes will be reflected in the repo once the work is accomplished and is ready to use for all. you are open for suggestions and contribution for creating a RestfullAPI of the model.
 
 ## Acknowledgments
 
@@ -39,7 +42,4 @@ We would like to express our gratitude to the developers of Mediapipe, PyAutoGUI
 ## Contact
 
 For any questions, suggestions, or issues, please reach out to our team at atharvamalode21@gmail.com. 📧📞
-
-[![Try EasyTouch](/path/to/interactive_logo.png)](https://github.com/your-username/EasyTouch)
-
 Happy *EasyTouching!* ✨🖱✨
