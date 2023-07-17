@@ -27,13 +27,9 @@ EasyTouch utilizes the power of computer vision and machine learning to detect a
 
 The application recognizes predefined hand gestures based on the positions of your fingers and triggers the corresponding mouse actions accordingly.
 
-## Contributing
-
-We welcome contributions from the open-source community to enhance EasyTouch's functionality and make it even more accessible and intuitive. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](/path/to/CONTRIBUTING.md) file. 🤝🌟
-
 ## Work in progress
 
-The model API is under construction the changes will be reflected in the repo once the work is accomplished and is ready to use for all. you are open for suggestions and contribution for creating a RestfullAPI of the model.
+The model Deployement usinng flask is under development phase and will be soon out for use to all.
 
 ## Acknowledgments
 
@@ -41,5 +37,5 @@ We would like to express our gratitude to the developers of Mediapipe, PyAutoGUI
 
 ## Contact
 
-For any questions, suggestions, or issues, please reach out to our team at atharvamalode21@gmail.com. 📧📞
+For any questions, suggestions, or issues, please reach out to at atharvamalode21@gmail.com. 📧📞
 Happy *EasyTouching!* ✨🖱✨
